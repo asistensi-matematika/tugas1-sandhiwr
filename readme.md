@@ -60,30 +60,42 @@ Polinomial x^2 -2x -3 memiliki
 
 ## input yang harus di run:
 ~~~~
-Input : 1 -2 3
-
-Output :
-
-~~~~
-~~~~
 Input : -2 3 0
 
 Output :
+Polinomial (-2)x^2 + (3)x + (0) memiliki
+1. Diskriminan			= 9
+2. Akar-akar dari polinomial	= -0.0 dan 1.5
+3. Titik stasioner		= (0,1)
+4. Kecekungan kurva		=  Bawah
+5. Nilai maksimum lokal		= 1
 
-~~~~
-~~~~
+Input : 1 -2 1
+
+Output :Polinomial (1)x^2 + (-2)x + (1) memiliki
+1. Diskriminan			= 0
+2. Akar-akar dari polinomial	= 1.0 dan 1.0
+3. Titik stasioner		= (0,0)
+4. Kecekungan kurva		=  Atas
+5. Nilai minimum lokal		= 0
+
 Input : 1 0 4
 
 Output :
+Polinomial (1)x^2 + (0)x + (4) memiliki
+1. Diskriminan			= -16
+2. Akar-akar dari polinomial	= NaN dan NaN
+3. Titik stasioner		= (0,4)
+4. Kecekungan kurva		=  Atas
+5. Nilai minimum lokal		= 4
 
-~~~~
-~~~~
 Input : -1 0 0
 
 Output :
-
+Nilai a tidak boleh 0
 ~~~~
 
 ## screenshot hasil running
+
 
 [link ke laporan]
